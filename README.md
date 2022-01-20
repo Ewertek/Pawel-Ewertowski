@@ -1,7 +1,5 @@
 # Pawel-Ewertowski
 
-I'm Paweł from Poland
-
 ### Hi there 👋, my name is Paweł 
 #### Uczę się githuba
 ![Uczę się githuba](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
