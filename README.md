@@ -1,4 +1,3 @@
-
 ### Hi there 👋, I am Paweł . This is my CV
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -8,11 +7,12 @@ I did this project only for passing, it allows you to create nice and simple Git
 
 Skills: Java/ C++ / C # / HTML 
 
-- 🔭 I’m currently working on this page. 
-
-
-
-
+- 🔭 I’m currently working on CV  
+- 🌱 I’m currently learning Github and Java 
+- 👯 I’m looking to collaborate on programming and building your website 
+- 🤔 I’m looking for help with githuba 
+- 📫 How to reach me: tel 784 929 263 
+- ⚡ Fun fact: I am an active athlete and I am studying computer science 
 
 
 
